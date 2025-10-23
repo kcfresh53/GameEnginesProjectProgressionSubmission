@@ -14,7 +14,7 @@
 
 ## Group Formation
 
-- My course project Is a solo endeavour which started off as a personal project/ contribution to a larger project aiming to solve the same problem I'm tackling, and as a  result, I chose to work solo because my project was already an established tool used in projects.
+- My course project is a solo endeavour which started off as a personal project/ contribution to a larger project aiming to solve the same problem I'm tackling, and as a  result, I chose to work solo because my project was already an established tool used in projects.
 
 - Roles/ Responsibilities: All development.
 
