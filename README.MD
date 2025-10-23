@@ -1,5 +1,7 @@
 # Project Progression
 
+- Kenechukwu Ozoemene: 100841149
+
 - Group: Solo
 
 - Github repository: [GitHub - Teaching-myself-Godot/ez-curved-lines-2d](https://github.com/Teaching-myself-Godot/ez-curved-lines-2d)
