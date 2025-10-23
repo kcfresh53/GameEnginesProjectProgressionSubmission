@@ -193,8 +193,6 @@ sequenceDiagram
 
 - Things were mainly implemented this way to save time for the developers using our plugin, and to further legitimize the "engine native" philosophy I briefly touched on earlier.
 
-- 
-
 ```mermaid
 classDiagram
     class IResourceFactory {
